@@ -1,0 +1,6 @@
+{
+  "CLIENT_DIR": "client",
+  "ENTRY_FILE": "index.js",
+  "CLIENT_MODE": "vue",
+  "ENABLE_PWA": true
+}
